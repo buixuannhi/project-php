@@ -1,0 +1,1 @@
+{{ showComments($comments) }}
